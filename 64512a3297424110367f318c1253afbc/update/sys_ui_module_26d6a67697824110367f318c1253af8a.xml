@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Wish List">6ad6a67697824110367f318c1253af87</application>
+        <filter/>
+        <name>(empty)</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-09 07:00:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26d6a67697824110367f318c1253af8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>(empty)</sys_name>
+        <sys_package display_value="Wish List" source="x_781634_wish_list">64512a3297424110367f318c1253afbc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">64512a3297424110367f318c1253afbc</sys_scope>
+        <sys_update_name>sys_ui_module_26d6a67697824110367f318c1253af8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-09 07:00:56</sys_updated_on>
+        <table>x_781634_wish_list__empty_</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
